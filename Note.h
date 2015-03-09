@@ -12,7 +12,7 @@
 
 @property NSString *title;
 @property NSString *desc;
-@property BOOL *status;
+@property BOOL status;
 @property NSString *category;
 
 @end
